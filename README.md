@@ -1,2 +1,2 @@
-# ado2
-Ado2 - java
+# ado2 - Projeto Integrador
+Ado2 -  Henrique Costa Merschbacher
